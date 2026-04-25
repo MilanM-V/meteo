@@ -1,0 +1,7 @@
+- Station aillant pour paramètre temperature mais pas précipitation:
+	59 (couleur bleu)
+
+- Station aillant pour paramètre precipitation mais pas temperature:
+	33 (couleur rouge)
+
+- Total 92
